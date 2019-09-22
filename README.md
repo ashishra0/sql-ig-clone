@@ -1,1 +1,1 @@
-### Instagram Schema Clone with SQL 🎯
+### Instagram Schema Clone with SQL
